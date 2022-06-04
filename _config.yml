@@ -6,4 +6,4 @@ markdown: gfm
 logo: /assets/img/logo.png
 site:
   github:
-    is_project_page:
+    is_project_page: false
