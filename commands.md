@@ -8,7 +8,7 @@ Hier findet ihr eine Liste aller Befehl, die wir in unserem Stream unterstützen
 | !confetti  | Werfe Confetti im Stream | 
 | !nein | Lindner sagt Nein | 
 | !häh | Häh?! | 
-| !lachen | Mexikaner Schauspieler lacht für dich im Stream | 
+| !lachen | Mexikanischer Schauspieler lacht für dich im Stream | 
 | !mimimi | Mimiiiii Mimimimi Mimiiii | 
 | !followinstructions | Jetzt mach doch endlich, was ich dir sage. | 
 | !papagei | What the fuck? | 
