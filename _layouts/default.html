@@ -32,8 +32,8 @@
         {% endif %}
         
         {% for social in site.social %}
-        {% if social.logo %}
-        <p class="view"><img src="{{social.logo}}" alt="Logo" /><a href="{{ social.url }}">{{ social.name }}</a></p>
+        {% if social.icon %}
+        <p class="view"><img src="{{social.icon}}" alt="Logo" /><a href="{{ social.url }}">{{ social.name }}</a></p>
         {% else %}
         <p class="view"><a href="{{ social.url }}">{{ social.name }}</a></p>
         {% endif %}
