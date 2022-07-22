@@ -32,7 +32,11 @@
         {% endif %}
         
         {% for social in site.social %}
+        {% if site.github.is_user_page %}
         <p class="view"><a href="{{ social.url }}">{{ social.name }}</a></p>
+        {% else %}
+        <p class="view"><img src="{{social.logo}}" alt="Logo" /><a href="{{ social.url }}">{{ social.name }}</a></p>
+        {% endif %}
         {% endfor %}
 
         {% if site.show_downloads %}
