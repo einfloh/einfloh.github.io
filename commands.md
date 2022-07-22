@@ -16,3 +16,11 @@ Hier findet ihr eine Liste aller Befehl, die wir in unserem Stream unterstützen
 | !dundundun | Suspense | 
 | !6stundenspäter | Sechs Stunden Später | 
 | !lesen | ...aber das sehr gut! | 
+
+## Andere Befehle
+| Befehle | Beschreibung | 
+| ----------- | ----------- | 
+| !charactersheets  | Link zu unseren Character-Sheets |  
+| !dc  | Link zu unserem Discord | 
+| !effekte  | Eine Liste aller unserer Effekte | 
+| !commands  | Eine Liste aller unserer Commands | 
