@@ -1,5 +1,5 @@
 ## Frandil (Flo) - Tempest Cleric
-| Fähikeit | Wert | 
+| Fähigkeit | Wert | 
 | ----------- | ----------- | 
 | Stärke  | 14 | 
 | Geschicklichkeit  | 9 | 
@@ -9,10 +9,11 @@
 | Charisma  | 9 | 
 
 Rüstungsklasse: 18
+
 Maximales Leben: 30
 
 ## Siltrim (Patrick) - Bard (College of Lore)
-| Fähikeit | Wert | 
+| Fähigkeit | Wert | 
 | ----------- | ----------- | 
 | Stärke  | 10 | 
 | Geschicklichkeit  | 14 | 
@@ -22,10 +23,11 @@ Maximales Leben: 30
 | Charisma  | 17 | 
 
 Rüstungsklasse: 13
+
 Maximales Leben: ?
 
 ## Lia (Inga) - Hunter
-| Fähikeit | Wert | 
+| Fähigkeit | Wert | 
 | ----------- | ----------- | 
 | Stärke  | 10 | 
 | Geschicklichkeit  | 17 | 
@@ -35,4 +37,5 @@ Maximales Leben: ?
 | Charisma  | 11 | 
 
 Rüstungsklasse: 15
+
 Maximales Leben: 25
