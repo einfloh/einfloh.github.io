@@ -24,3 +24,5 @@ Hier findet ihr eine Liste aller Befehl, die wir in unserem Stream unterstützen
 | !dc  | Link zu unserem Discord | 
 | !effekte  | Eine Liste aller unserer Effekte | 
 | !commands  | Eine Liste aller unserer Commands | 
+| !randomfactanne  | Zufälliger Fakt über Anne | 
+| !randomfactflo  | Zufälliger Fakt über Flo | 
