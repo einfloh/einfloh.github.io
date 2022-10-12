@@ -9,12 +9,14 @@ github:
   is_user_page: false
 social:
   - name: Twitch
-    url: https://www.twitch.tv/flanntierchen
+    url: https://www.twitch.tv/flanntastictv
   - name: Instagram
-    url: https://www.instagram.com/flanntierchen/
+    url: https://www.instagram.com/flanntastictv/
   - name: Discord
     url: https://discord.gg/y83WbsKhhQ
   - name: YouTube
     url: https://www.youtube.com/channel/UCtwa3BQZ8_g9Ni0Vrh0DSbA
   - name: TikTok
-    url: https://www.tiktok.com/@Flanntierchen
+    url: https://www.tiktok.com/@flanntastictv
+  - name: Twitter
+    url: https://twitter.com/flanntastictv
