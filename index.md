@@ -6,4 +6,4 @@ Auf unsere verschiedenen Social-Media-Kanälen findet ihr alles, was uns Spaß m
 ## Inhaltsverzeichnis
  * [Commands](https://flanntierchen.github.io/commands)
  * [DnD Character Sheets](https://flanntierchen.github.io/dnd/character-sheets)
- * [Attributions](https://flanntierchen.github.io/attributions)
+ * [Attributions](https://flanntierchen.github.io/attributions_page)
