@@ -1,6 +1,6 @@
 # 🤤 Flanntastischer Taco-Salat 🤤 | Käpt'n Flo's Kombüse
 
-Ob Nacho-, Taco- oder Tortilla-Salat: Egal, wie man in nennt, aber ein Salat im mexikanischen Stil ist lecker, einfach und schnell gemacht.
+Ob Nacho-, Taco- oder Tortilla-Salat: Egal, wie man in nennt, aber ein Salat im mexikanischen Stil ist lecker, einfach und schnell gemacht. Durch den vielen Salat und die Tomaten ist er dabei leicht, füllt aber trotzdem den Magen mit wohligen Umami-Geschmack.
 
 Das Rezept ist angelehnt an [dieses hier von Chef-Koch](https://www.chefkoch.de/rezepte/520201148306797/Taco-Salat.html), aber leicht angepasst an den Geschmack von Anne und mir.
 Ein Youtube-Video zum Rezept [findet ihr hier](https://youtu.be/gerbyBQL5fw).
@@ -9,7 +9,7 @@ Ein Youtube-Video zum Rezept [findet ihr hier](https://youtu.be/gerbyBQL5fw).
 - 2 Zwiebeln
 - 4 Knoblauchzehen (2 fürs Hack, zwei für den Schmand)
 - Öl zum Anbraten
-- 500g Hack
+- 500g Hack (kann auch durch Tofu o.ä. ersetzt werden)
 - 2 EL Tomatenmark
 - Taco-Gewürz (wir hatten nur noch Tortilla-Gewürz da, deshalb habe ich das genommen)
 - Salz und Pfeffer
