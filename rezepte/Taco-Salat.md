@@ -26,24 +26,24 @@ Ein Youtube-Video zum Rezept [findet ihr hier](https://youtu.be/gerbyBQL5fw).
 
 ## Zubereitung
 
-- 2 Zwiebeln schneiden
-- 2 Knoblauchzehen hacken
-- Etwas Öl in einer Pfanne erhitzen
-- Zwiebeln in die Pfanne werfen, wenn das Öl heiß ist
-- Knoblauch dazu geben, wenn die Zwiebeln glasig sind
-- Nach kurzer Zeit das Hack hinzufügen und krümmelich braten
-- Danach 2 EL Tomatenmark hinzufügen
-- Würzen nach Geschmack mit Salz, Pfeffer und Tortilla-Gewürz und gut vermengen
-- 2 Packungen Schmand in eine Schüssel geben
-- 2 Knoblauchzehen hacken und hinzugeben
-- Würzen nach Geschmack mit Salz, Pfeffer und einer halben Limette
-- Gut vermengen
-- Schichtweise in eine große Schüssel....
--- kleingeschnittener Eisbergsalat
--- das angebratene Hack
--- eine Flasche Salsa-Sauce (nach Geschmack)
--- Je eine Dose Mais und Kidney-Bohnen
--- kleingeschnittene Tomaten
--- den gewürzten Schmand
--- eine Packung Bröselkäse
-- Am Ende alles in Schüsseln auftun und es mit zergedrückten Nachos ganieren.
+1. 2 Zwiebeln schneiden
+2. 2 Knoblauchzehen hacken
+3. Etwas Öl in einer Pfanne erhitzen
+4. Zwiebeln in die Pfanne werfen, wenn das Öl heiß ist
+5. Knoblauch dazu geben, wenn die Zwiebeln glasig sind
+6. Nach kurzer Zeit das Hack hinzufügen und krümmelich braten
+7. Danach 2 EL Tomatenmark hinzufügen
+8. Würzen nach Geschmack mit Salz, Pfeffer und Tortilla-Gewürz und gut vermengen
+9. 2 Packungen Schmand in eine Schüssel geben
+10. 2 Knoblauchzehen hacken und hinzugeben
+11. Würzen nach Geschmack mit Salz, Pfeffer und einer halben Limette
+12. Gut vermengen
+13. Schichtweise in eine große Schüssel....
+13.1. kleingeschnittener Eisbergsalat
+13.2. das angebratene Hack
+13.3. eine Flasche Salsa-Sauce (nach Geschmack)
+13.4. Je eine Dose Mais und Kidney-Bohnen
+13.5. kleingeschnittene Tomaten
+13.6. den gewürzten Schmand
+13.7. eine Packung Bröselkäse
+14. Am Ende alles in Schüsseln auftun und es mit zergedrückten Nachos ganieren.
