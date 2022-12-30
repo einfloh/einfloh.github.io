@@ -5,7 +5,7 @@ Ob Nacho-, Taco- oder Tortilla-Salat: Egal, wie man in nennt, aber ein Salat im 
 Das Rezept ist angelehnt an [dieses hier von Chef-Koch](https://www.chefkoch.de/rezepte/520201148306797/Taco-Salat.html), aber leicht angepasst an den Geschmack von Anne und mir.
 Ein Youtube-Video zum Rezept [findet ihr hier](https://youtu.be/gerbyBQL5fw).
 
-[![🤤 Flanntastischer Taco-Salat in weniger als 40 Minuten🤤 | Käpt'n Flo's Kombüse]
+[![Flanntastischer Taco-Salat in weniger als 45 Minuten | Käpt'n Flo's Kombüse]
 (https://img.youtube.com/vi/gerbyBQL5fw/maxresdefault.jpg)]
 (https://www.youtube.com/watch?v=gerbyBQL5fw)
 
