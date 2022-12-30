@@ -29,7 +29,7 @@ Ein Youtube-Video zum Rezept [findet ihr hier](https://youtu.be/<SET_ME>).
 2. Sobald das Wasser kocht, die Hitze etwas herunterstellen und die Tomaten vorsichtig reingleiten lassen.
 3. Nach ein paar Minuten sollte die Haut der Tomaten platzen. Dann, aber spätestens nach ein paar Minuten wenn die Tomaten weich werden, die Tomaten aus dem Wasser nehmen und kurz mit kaltem Wasser abschrecken.
 4. Die Haut der Tomaten sollte sich jetzt leicht lösen lassen. Nach dem Schälen, die Tomaten vierteln, den Strunk herausschneiden und etwas klein schneiden
-4.1. Bei Bedarf können auch die Kerne aus den Tomaten entfernt werden. Aus Faulheit lasse ich das meistens weg.
+    -- Bei Bedarf können auch die Kerne aus den Tomaten entfernt werden. Aus Faulheit lasse ich das meistens weg.
 5. Zwiebeln, Knoblauch, Chili und Basilikum getrennt hacken. Die restlichen Zutaten bereitlegen.
 6. In einem Topf etwas Öl erhitzen. Die Zwiebeln darin glasig braten und dann Knoblauch und Chili hinzugeben.
 7. Das Tomatenmark in den Topf geben, kurz mitbraten und mit dem Rotweinessig ablöschen. Danach die geschälten Tomaten hinzugeben.
@@ -38,4 +38,4 @@ Ein Youtube-Video zum Rezept [findet ihr hier](https://youtu.be/<SET_ME>).
 10. Die Gläser und Deckel mit warmen Wasser abspülen, trocknen und kurz im Backofen bei ~100°C erwärmen.
 11. Danach die Gläser aus dem Ofen nehmen, das Relish einfüllen, die Gläser verschließen und auf den Kopf stellen.
 12. Nachdem die Gläser abgekühlt sind, sollte sich ein Vakuum gebildet haben. Die Gläser können dann umgedreht werden.
-12.1. Wenn alles geklappt hat, sollte sich der Deckel der Gläser etwas eingedellt haben.
+    - Wenn alles geklappt hat, sollte sich der Deckel der Gläser etwas eingedellt haben.
