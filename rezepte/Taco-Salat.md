@@ -39,11 +39,11 @@ Ein Youtube-Video zum Rezept [findet ihr hier](https://youtu.be/gerbyBQL5fw).
 11. Würzen nach Geschmack mit Salz, Pfeffer und einer halben Limette
 12. Gut vermengen
 13. Schichtweise in eine große Schüssel....
-13.1 kleingeschnittener Eisbergsalat
-13.2 das angebratene Hack
-13.3 eine Flasche Salsa-Sauce (nach Geschmack)
-13.4 Je eine Dose Mais und Kidney-Bohnen
-13.5 kleingeschnittene Tomaten
-13.6 den gewürzten Schmand
-13.7 eine Packung Bröselkäse
+-- kleingeschnittener Eisbergsalat
+-- das angebratene Hack
+-- eine Flasche Salsa-Sauce (nach Geschmack)
+-- Je eine Dose Mais und Kidney-Bohnen
+-- kleingeschnittene Tomaten
+-- den gewürzten Schmand
+-- eine Packung Bröselkäse
 14. Am Ende alles in Schüsseln auftun und es mit zergedrückten Nachos ganieren.
