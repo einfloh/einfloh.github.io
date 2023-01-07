@@ -7,3 +7,7 @@ Auf unsere verschiedenen Social-Media-Kanälen findet ihr alles, was uns Spaß m
  * [Commands](https://flanntastictv.github.io/commands)
  * [DnD Character Sheets](https://flanntastictv.github.io/dnd/character-sheets)
  * [Attributions](https://flanntastictv.github.io/attributions)
+
+## Links zu unseren Rezepten
+ * [Flanntastischer Taco-Salat](https://flanntastictv.github.io/rezepte/Taco-Salat)
+ * [Tomaten-Relish](https://flanntastictv.github.io/rezepte/Tomaten-Relish)
