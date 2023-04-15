@@ -17,6 +17,7 @@ Hier findet ihr eine Liste aller Befehl, die wir in unserem Stream unterstützen
 | !6stundenspäter | Sechs Stunden Später | 
 | !lesen | ...aber das sehr gut! | 
 | !zorn | Florian empfindet Zorn! | 
+| !schebäm | Schebäm Buya | 
 
 ## Andere Befehle
 | Befehle | Beschreibung | 
