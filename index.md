@@ -1,7 +1,6 @@
-# Dies ist die Website von Flanntierchen
+# Dies ist die Website von Ein Floh
 
-Flanntierchen - das ist ein Pärchen, dass sich nach drei Jahren Beziehung im Alltag nichts mehr zu sagen hat... Was gibt es da besseres, als einen Youtube-Kanal aufzumachen?
-Auf unsere verschiedenen Social-Media-Kanälen findet ihr alles, was uns Spaß macht: Basteln, RPG's, Yu-Gi-Oh!, Nintendo und Pokemon
+Hi, ich bin Floh aus Berlin. Auf meinem Kanal findet ihr alles, was mir Spaß macht: RPG's, YuGiOh und Chaos-Tech! Lasst gerne ein Abo da.
 
 ## Inhaltsverzeichnis
  * [Commands](https://flanntastictv.github.io/commands)
