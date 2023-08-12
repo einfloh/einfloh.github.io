@@ -8,5 +8,5 @@ Hi, ich bin Floh aus Berlin. Auf meinem Kanal findet ihr alles, was mir Spaß ma
  * [Attributions](https://flanntastictv.github.io/attributions)
 
 ## Links zu unseren Rezepten
- * [Flanntastischer Taco-Salat](https://flanntastictv.github.io/rezepte/Taco-Salat)
+ * [Taco-Salat](https://flanntastictv.github.io/rezepte/Taco-Salat)
  * [Tomaten-Relish](https://flanntastictv.github.io/rezepte/Tomaten-Relish)
