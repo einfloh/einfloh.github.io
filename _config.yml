@@ -1,4 +1,4 @@
-title: FlanntasticTV
+ Flohtitle: FlanntasticTV
 remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme # add this line to the plugins list if you already have one
@@ -9,14 +9,6 @@ github:
   is_user_page: false
 social:
   - name: Twitch
-    url: https://www.twitch.tv/flanntastictv
-  - name: Instagram
-    url: https://www.instagram.com/flanntastictv/
+    url: https://www.twitch.tv/einfloh
   - name: Discord
     url: https://discord.gg/y83WbsKhhQ
-  - name: YouTube
-    url: https://www.youtube.com/@flanntastictv
-  - name: TikTok
-    url: https://www.tiktok.com/@flanntastictv
-  - name: Twitter
-    url: https://twitter.com/flanntastictv
