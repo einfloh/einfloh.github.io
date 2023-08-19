@@ -1,5 +1,3 @@
-# Dies ist die Website von Ein Floh
-
 Hi, ich bin Floh aus Berlin. Auf meinem Kanal findet ihr alles, was mir Spaß macht: RPG's, YuGiOh und Chaos-Tech! Lasst gerne ein Abo da.
 
 ## Inhaltsverzeichnis
