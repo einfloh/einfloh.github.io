@@ -25,9 +25,9 @@
         <section id="social-media">
           {% for social in site.social %}
             {% if social.icon %}
-              <p class="view"><img src="{{social.icon}}" alt="Logo" /><a href="{{ social.url }}">{{ social.name }}</a></p>
+              <p class="btn"><img src="{{social.icon}}" alt="Logo" /><a href="{{ social.url }}">{{ social.name }}</a></p>
             {% else %}
-              <p class="view"><a href="{{ social.url }}">{{ social.name }}</a></p>
+              <p class="btn"><a href="{{ social.url }}">{{ social.name }}</a></p>
             {% endif %}
         {% endfor %}
       </section>
