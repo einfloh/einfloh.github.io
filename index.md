@@ -5,6 +5,6 @@ Hi, ich bin Floh aus Berlin. Auf meinem Kanal findet ihr alles, was mir Spaß ma
  * [DnD Character Sheets](https://flanntastictv.github.io/dnd/character-sheets)
  * [Attributions](https://flanntastictv.github.io/attributions)
 
-## Links zu unseren Rezepten
+## Links zu verschiedenen Rezepten
  * [Taco-Salat](https://flanntastictv.github.io/rezepte/Taco-Salat)
  * [Tomaten-Relish](https://flanntastictv.github.io/rezepte/Tomaten-Relish)
