@@ -21,15 +21,8 @@
           <img width="auto" height="100" src="{{site.logo | relative_url}}" alt="Logo" />
         {% endif %}
         <h2>{{ site.description | default: site.github.project_tagline }}</h2>
-
-        <section id="downloads">
-          {% if site.show_downloads %}
-            <a href="{{ site.github.zip_url }}" class="btn">Download as .zip</a>
-            <a href="{{ site.github.tar_url }}" class="btn">Download as .tar.gz</a>
-          {% endif %}
-          <a href="{{ site.github.repository_url }}" class="btn btn-github"><span class="icon"></span>View on GitHub</a>
-        </section>
-        <section id="Social_Media_content">
+        
+        <section id="social-media">
           {% for social in site.social %}
             {% if social.icon %}
               <p class="view"><img src="{{social.icon}}" alt="Logo" /><a href="{{ social.url }}">{{ social.name }}</a></p>
