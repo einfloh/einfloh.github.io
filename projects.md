@@ -3,7 +3,6 @@
 Hier auf der Seite findet ihr alle aktuellen, vergangenen und zukünftigen Bastelprojekte.
 
 ## Aktuell
-- OBS-Selfie-Effekt bei Github veröffentlichen
 
 ## Zukünftig
 - Neuer Motor für die Moneygun
@@ -18,3 +17,4 @@ Hier auf der Seite findet ihr alle aktuellen, vergangenen und zukünftigen Baste
 - Cardmarket-Plugin
 
 ## Vergangen
+- [OBS-Selfie-Effekt bei Github veröffentlichen](https://github.com/einfloh/polaroid-obs-plugin)
