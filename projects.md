@@ -7,6 +7,7 @@ Hier auf der Seite findet ihr alle aktuellen, vergangenen und zukünftigen Baste
 
 ## Zukünftig
 - Neuer Motor für die Moneygun
+- Github-Pages-Theme.-Wechsel zu [Minima](https://github.com/jekyll/minima)/[Minimal](https://github.com/pages-themes/minimal)
 - Durch Chat steuerbarer Midi-Controller
 - Heizungssteuerung
 - Temperatur-Alerts
