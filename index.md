@@ -4,6 +4,7 @@ Hi, ich bin Floh aus Berlin. Auf meinem Kanal findet ihr alles, was mir Spaß ma
  * [Commands](https://einfloh.github.io/commands)
  * [DnD Character Sheets](https://einfloh.github.io/dnd/character-sheets)
  * [Attributions](https://einfloh.github.io/attributions)
+ * [Projekte](https://einfloh.github.io/projects)
 
 ## Links zu verschiedenen Rezepten
  * [Taco-Salat](https://einfloh.github.io/rezepte/Taco-Salat)
