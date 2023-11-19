@@ -6,6 +6,9 @@ Hi, ich bin Floh aus Berlin. Auf meinem Kanal findet ihr alles, was mir Spaß ma
  * [Attributions](https://einfloh.github.io/attributions)
  * [Projekte](https://einfloh.github.io/projects)
 
+## Open Source
+ * [OBS Polaroid Plugin](https://github.com/einfloh/polaroid-obs-plugin)
+
 ## Links zu verschiedenen Rezepten
  * [Taco-Salat](https://einfloh.github.io/rezepte/Taco-Salat)
  * [Tomaten-Relish](https://einfloh.github.io/rezepte/Tomaten-Relish)
