@@ -7,9 +7,9 @@ Hier auf der Seite findet ihr alle aktuellen, vergangenen und zukünftigen Baste
 ## Zukünftig
 - Neuer Motor für die Moneygun
 - Github-Pages-Theme-Wechsel zu [Minima](https://github.com/jekyll/minima)/[Minimal](https://github.com/pages-themes/minimal)
-- Temperatur-Alerts
-- Durch Chat steuerbarer Midi-Controller
+- Open Source Contribution Thermo Printer
 - Offene-Tür-Erkennung mit Notification
+- Temperatur-Alerts
 - Heizungssteuerung
     - Steuerung über Temperatursensoren
     - Zeitsteuerung (Nachts andere Temperatur als tagsüber)
@@ -17,6 +17,8 @@ Hier auf der Seite findet ihr alle aktuellen, vergangenen und zukünftigen Baste
     - Presence-Detection (Andere Temperatur, wenn niemand zu Hause ist)
     - Battery Notifications
 - LED-Stripe für die Treppe mit [WLED](https://kno.wled.ge/)
+- Durch Chat steuerbarer Midi-Controller
+- Toiletten-Papier Kanone
 - Casio-Synthesizer reparieren
 - Kaffeeautomaten steuern WLAN
 - Steuerbare Kuckucks-Uhr
