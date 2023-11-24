@@ -3,13 +3,13 @@
 Hier auf der Seite findet ihr alle aktuellen, vergangenen und zukünftigen Bastelprojekte.
 
 ## Aktuell
-
-## Zukünftig
-- Neuer Motor für die Moneygun
 - Github-Pages-Theme-Wechsel zu [Minima](https://github.com/jekyll/minima)/[Minimal](https://github.com/pages-themes/minimal)
 - Open Source Contribution Thermo Printer
 - Offene-Tür-Erkennung mit Notification
 - Temperatur-Alerts
+
+## Zukünftig
+- Neuer Motor für die Moneygun
 - Heizungssteuerung
     - Steuerung über Temperatursensoren
     - Zeitsteuerung (Nachts andere Temperatur als tagsüber)
