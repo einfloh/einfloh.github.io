@@ -5,15 +5,15 @@ Hier auf der Seite findet ihr alle aktuellen, vergangenen und zukünftigen Baste
 ## Aktuell
 - Open Source Contribution Thermo Printer
 - Temperatur-Alerts
-
-## Zukünftig
-- Neuer Motor für die Moneygun
 - Heizungssteuerung
     - Steuerung über Temperatursensoren
     - Zeitsteuerung (Nachts andere Temperatur als tagsüber)
     - Offene-Fenster-Erkennung über Sensoren
     - Presence-Detection (Andere Temperatur, wenn niemand zu Hause ist)
     - ~~Battery Notifications~~
+
+## Zukünftig
+- Neuer Motor für die Moneygun
 - LED-Stripe für die Treppe mit [WLED](https://kno.wled.ge/)
 - Durch Chat steuerbarer Midi-Controller
 - Toiletten-Papier Kanone
