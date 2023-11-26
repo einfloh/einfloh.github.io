@@ -13,7 +13,7 @@ Hier auf der Seite findet ihr alle aktuellen, vergangenen und zukünftigen Baste
     - Zeitsteuerung (Nachts andere Temperatur als tagsüber)
     - Offene-Fenster-Erkennung über Sensoren
     - Presence-Detection (Andere Temperatur, wenn niemand zu Hause ist)
-    - Battery Notifications
+    - ~~Battery Notifications~~
 - LED-Stripe für die Treppe mit [WLED](https://kno.wled.ge/)
 - Durch Chat steuerbarer Midi-Controller
 - Toiletten-Papier Kanone
