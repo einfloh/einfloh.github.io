@@ -5,7 +5,6 @@ Hier auf der Seite findet ihr alle aktuellen, vergangenen und zukünftigen Baste
 ## Aktuell
 - Github-Pages-Theme-Wechsel zu [Minima](https://github.com/jekyll/minima)/[Minimal](https://github.com/pages-themes/minimal)
 - Open Source Contribution Thermo Printer
-- Offene-Tür-Erkennung mit Notification
 - Temperatur-Alerts
 
 ## Zukünftig
@@ -26,3 +25,5 @@ Hier auf der Seite findet ihr alle aktuellen, vergangenen und zukünftigen Baste
 
 ## Vergangen
 - [OBS-Selfie-Effekt bei Github veröffentlichen](https://github.com/einfloh/polaroid-obs-plugin)
+- Offene-Tür-Erkennung mit Notification
+- [Batteriealarm](https://community.home-assistant.io/t/low-battery-level-detection-notification-for-all-battery-sensors/258664)
