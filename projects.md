@@ -3,6 +3,7 @@
 Hier auf der Seite findet ihr alle aktuellen, vergangenen und zukünftigen Bastelprojekte.
 
 ## Aktuell
+- Cookie Notice für die Github Page
 - Open Source Contribution Thermo Printer
 - Temperatur-Alerts
 - Heizungssteuerung
