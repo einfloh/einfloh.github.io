@@ -10,6 +10,4 @@ Hi, ich bin Floh aus Berlin. Auf meinem Kanal findet ihr alles, was mir Spaß ma
  * [OBS Polaroid Plugin](https://github.com/einfloh/polaroid-obs-plugin)
 
 ## Streamplan
-Den aktuellen Streamplan findet ihr immer auf GitHub, bei YouTube und im Discord!
-
 <a href="https://www.twitch.tv/einfloh"><img src="/assets/img/Streamplan.png" alt="streamplan"/></a>
