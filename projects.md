@@ -3,7 +3,6 @@
 Hier auf der Seite findet ihr alle aktuellen, vergangenen und zukünftigen Bastelprojekte.
 
 ## Aktuell
-- Cookie Notice für die Github Page
 - Open Source Contribution Thermo Printer
 - Temperatur-Alerts
 - Heizungssteuerung
@@ -24,7 +23,8 @@ Hier auf der Seite findet ihr alle aktuellen, vergangenen und zukünftigen Baste
 - Cardmarket-Plugin
 
 ## Vergangen
-- ~~[OBS-Selfie-Effekt bei Github veröffentlichen](https://github.com/einfloh/polaroid-obs-plugin)~~
-- ~~Offene-Tür-Erkennung mit Notification~~
-- ~~[Batteriealarm](https://community.home-assistant.io/t/low-battery-level-detection-notification-for-all-battery-sensors/258664)~~
-- ~~Github-Pages-Theme-Wechsel zu [Minima](https://github.com/jekyll/minima)/[Minimal](https://github.com/pages-themes/minimal)~~
+- [OBS-Selfie-Effekt bei Github veröffentlichen](https://github.com/einfloh/polaroid-obs-plugin)
+- Offene-Tür-Erkennung mit Notification
+- [Batteriealarm](https://community.home-assistant.io/t/low-battery-level-detection-notification-for-all-battery-sensors/258664)
+- Github-Pages-Theme-Wechsel zu [Minimal](https://github.com/pages-themes/minimal)
+- Cookie Notice für die Github Page ([Cookie-Consent](https://jekyllcodex.org/without-plugin/cookie-consent/) und [Privacy Policy Generator](https://free-privacy-policy-generator.digitalmalayali.in/))
