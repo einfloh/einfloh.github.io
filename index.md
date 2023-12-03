@@ -12,4 +12,4 @@ Hi, ich bin Floh aus Berlin. Auf meinem Kanal findet ihr alles, was mir Spaß ma
 ## Streamplan
 Den aktuellen Streamplan findet ihr immer auf GitHub, bei YouTube und im Discord!
 
-<a href="https://www.twitch.tv/einfloh"><img src="/assets/img/Streamplan.png" alt="streamplan" style="width:720px;height:1280px;"/></a>
+<a href="https://www.twitch.tv/einfloh"><img src="/assets/img/Streamplan.png" alt="streamplan"/></a>
