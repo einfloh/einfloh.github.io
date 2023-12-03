@@ -2,13 +2,14 @@ Hi, ich bin Floh aus Berlin. Auf meinem Kanal findet ihr alles, was mir Spaß ma
 
 ## Inhaltsverzeichnis
  * [Commands](https://einfloh.github.io/commands)
+ * [Projekte](https://einfloh.github.io/projects)
  * [DnD Character Sheets](https://einfloh.github.io/dnd/character-sheets)
  * [Attributions](https://einfloh.github.io/attributions)
- * [Projekte](https://einfloh.github.io/projects)
 
 ## Open Source
  * [OBS Polaroid Plugin](https://github.com/einfloh/polaroid-obs-plugin)
 
-## Links zu verschiedenen Rezepten
- * [Taco-Salat](https://einfloh.github.io/rezepte/Taco-Salat)
- * [Tomaten-Relish](https://einfloh.github.io/rezepte/Tomaten-Relish)
+## Streamplan
+Den aktuellen Streamplan findet ihr immer auf GitHub, bei YouTube und im Discord!
+
+<a href="https://www.twitch.tv/einfloh"><img src="/assets/img/Streamplan.png" alt="streamplan" style="width:720px;height:1280px;"/></a>
