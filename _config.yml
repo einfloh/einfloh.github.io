@@ -7,12 +7,7 @@ logo: /assets/img/Logo.png
 github: 
   is_project_page: false
   is_user_page: false
-social:
-  - name: Twitch
-    url: https://www.twitch.tv/einfloh
-  - name: Youtube
-    url: https://www.youtube.com/@ein_floh
-  - name: Instagram
-    url: https://www.instagram.com/ein.flohh/
-  - name: Discord
-    url: https://discord.gg/y83WbsKhhQ
+facebook_url: https://www.twitch.tv/einfloh
+twitter_url: https://www.youtube.com/@ein_floh
+linkedin_url: https://discord.gg/y83WbsKhhQ
+instagram_url: https://www.instagram.com/ein.flohh/
