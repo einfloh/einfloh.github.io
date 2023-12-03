@@ -11,7 +11,7 @@ Hier auf der Seite findet ihr alle aktuellen, vergangenen und zukünftigen Baste
     - Offene-Fenster-Erkennung über Sensoren
     - Presence-Detection (Andere Temperatur, wenn niemand zu Hause ist)
     - ~~Battery Notifications~~
-- Social Media Banner für die Streamer-Website
+- [Follow Buttons](https://jekyllcodex.org/without-plugin/follow-buttons/) für die Streamer-Website
 
 ## Zukünftig
 - Neuer Motor für die Moneygun
