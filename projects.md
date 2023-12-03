@@ -6,6 +6,7 @@ Hier auf der Seite findet ihr alle aktuellen, vergangenen und zukünftigen Baste
 - Open Source Contribution Thermo Printer
 - Temperatur-Alerts
 - Heizungssteuerung
+    - ~~Thermostate einbinden~~
     - Steuerung über Temperatursensoren
     - Zeitsteuerung (Nachts andere Temperatur als tagsüber)
     - Offene-Fenster-Erkennung über Sensoren
