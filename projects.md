@@ -3,16 +3,16 @@
 Hier auf der Seite findet ihr alle aktuellen, vergangenen und zukünftigen Bastelprojekte.
 
 ## Aktuell
-- Open Source Contribution Thermo Printer
-- Temperatur-Alerts
+- [Follow Buttons](https://jekyllcodex.org/without-plugin/follow-buttons/) für die Streamer-Website
 - Heizungssteuerung
     - ~~Thermostate einbinden~~
     - Steuerung über Temperatursensoren
     - Zeitsteuerung (Nachts andere Temperatur als tagsüber)
-    - Offene-Fenster-Erkennung über Sensoren
-    - Presence-Detection (Andere Temperatur, wenn niemand zu Hause ist)
+    - ~~Offene-Fenster-Erkennung über Sensoren~~
+    - ~~Presence-Detection (Andere Temperatur, wenn niemand zu Hause ist)~~
     - ~~Battery Notifications~~
-- [Follow Buttons](https://jekyllcodex.org/without-plugin/follow-buttons/) für die Streamer-Website
+- Open Source Contribution Thermo Printer
+- Temperatur-Alerts
 
 ## Zukünftig
 - Neuer Motor für die Moneygun
