@@ -3,7 +3,6 @@
 Hier auf der Seite findet ihr alle aktuellen, vergangenen und zukünftigen Bastelprojekte.
 
 ## Aktuell
-- [Follow Buttons](https://jekyllcodex.org/without-plugin/follow-buttons/) für die Streamer-Website
 - Heizungssteuerung
     - ~~Thermostate einbinden~~
     - Steuerung über Temperatursensoren
@@ -30,3 +29,4 @@ Hier auf der Seite findet ihr alle aktuellen, vergangenen und zukünftigen Baste
 - [Batteriealarm](https://community.home-assistant.io/t/low-battery-level-detection-notification-for-all-battery-sensors/258664)
 - Github-Pages-Theme-Wechsel zu [Minimal](https://github.com/pages-themes/minimal)
 - Cookie Notice für die Github Page ([Cookie-Consent](https://jekyllcodex.org/without-plugin/cookie-consent/) und [Privacy Policy Generator](https://free-privacy-policy-generator.digitalmalayali.in/))
+- [Follow Buttons](https://jekyllcodex.org/without-plugin/follow-buttons/) für die Streamer-Website -> Youtube, Twitch und Discord hinzugefügt
