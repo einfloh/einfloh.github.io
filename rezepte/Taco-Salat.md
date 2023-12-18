@@ -6,6 +6,7 @@ Das Rezept ist angelehnt an [dieses hier von Chef-Koch](https://www.chefkoch.de/
 Ein Youtube-Video zum Rezept [findet ihr hier](https://youtu.be/gerbyBQL5fw).
 
 [![Rezept auf Youtube](https://img.youtube.com/vi/gerbyBQL5fw/maxresdefault.jpg)](https://www.youtube.com/watch?v=gerbyBQL5fw)
+[Rezept auf Youtube](https://www.youtube.com/watch?v=gerbyBQL5fw?autoplay=0&loop=0&controls=1)
 
 ## Zutaten
 - 2 Zwiebeln
