@@ -15,6 +15,7 @@ Hier auf der Seite findet ihr alle aktuellen, vergangenen und zukünftigen Baste
 - Temperatur-Alerts
 
 ## Zukünftig
+- StreamElements aus OBS entfernen
 - Neuer Motor für die Moneygun
 - Durch Chat steuerbarer Midi-Controller
 - Toiletten-Papier Kanone
