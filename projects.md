@@ -3,13 +3,6 @@
 Hier auf der Seite findet ihr alle aktuellen, vergangenen und zukünftigen Bastelprojekte.
 
 ## Aktuell
-- Heizungssteuerung
-    - ~~Thermostate einbinden~~
-    - Steuerung über Temperatursensoren
-    - Zeitsteuerung (Nachts andere Temperatur als tagsüber)
-    - ~~Offene-Fenster-Erkennung über Sensoren~~
-    - ~~Presence-Detection (Andere Temperatur, wenn niemand zu Hause ist)~~
-    - ~~Battery Notifications~~
 - LED-Stripe für die Treppe mit [WLED](https://kno.wled.ge/)
 - Open Source Contribution Thermo Printer
 - Temperatur-Alerts
@@ -31,3 +24,10 @@ Hier auf der Seite findet ihr alle aktuellen, vergangenen und zukünftigen Baste
 - Github-Pages-Theme-Wechsel zu [Minimal](https://github.com/pages-themes/minimal)
 - Cookie Notice für die Github Page ([Cookie-Consent](https://jekyllcodex.org/without-plugin/cookie-consent/) und [Privacy Policy Generator](https://free-privacy-policy-generator.digitalmalayali.in/))
 - [Follow Buttons](https://jekyllcodex.org/without-plugin/follow-buttons/) für die Streamer-Website -> Youtube, Twitch und Discord hinzugefügt
+- Heizungssteuerung
+    - [Thermostate einbinden](https://github.com/zigpy/zha-device-handlers/issues/2706)
+    - [Steuerung über Temperatursensoren](https://github.com/nielsfaber/scheduler-card)
+    - Zeitsteuerung (Nachts andere Temperatur als tagsüber)
+    - Offene-Fenster-Erkennung über Sensoren
+    - Presence-Detection (Andere Temperatur, wenn niemand zu Hause ist)
+    - [Battery Notifications](https://community.home-assistant.io/t/low-battery-level-detection-notification-for-all-battery-sensors/258664)
