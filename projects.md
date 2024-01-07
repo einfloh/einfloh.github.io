@@ -3,7 +3,6 @@
 Hier auf der Seite findet ihr alle aktuellen, vergangenen und zukünftigen Bastelprojekte.
 
 ## Aktuell
-- LED-Stripe für die Treppe mit [WLED](https://kno.wled.ge/)
 - Open Source Contribution Thermo Printer
 - Temperatur-Alerts
 
@@ -18,6 +17,7 @@ Hier auf der Seite findet ihr alle aktuellen, vergangenen und zukünftigen Baste
 - Cardmarket-Plugin
 
 ## Vergangen
+- LED-Stripe für die Treppe mit [WLED](https://kno.wled.ge/)
 - [OBS-Selfie-Effekt bei Github veröffentlichen](https://github.com/einfloh/polaroid-obs-plugin)
 - Offene-Tür-Erkennung mit Notification
 - [Batteriealarm](https://community.home-assistant.io/t/low-battery-level-detection-notification-for-all-battery-sensors/258664)
