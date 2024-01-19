@@ -3,11 +3,17 @@
 Hier auf der Seite findet ihr alle aktuellen, vergangenen und zukünftigen Bastelprojekte.
 
 ## Aktuell
-- Open Source Contribution Thermo Printer
-- Temperatur-Alerts
+- `Game Save` Command
+- Random Fact Generator
+- StreamElements aus OBS entfernen
+    - Neues Chat-Tool finden und implementieren
+    - Die Alerts umziehen
+    - Follower-Rotator umziehen
+    - Subscriber-Rotator umziehen
 
 ## Zukünftig
-- StreamElements aus OBS entfernen
+- Open Source Contribution Thermo Printer
+- Temperatur-Alerts
 - Neuer Motor für die Moneygun
 - Durch Chat steuerbarer Midi-Controller
 - Toiletten-Papier Kanone
