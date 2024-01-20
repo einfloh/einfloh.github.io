@@ -3,8 +3,6 @@
 Hier auf der Seite findet ihr alle aktuellen, vergangenen und zukünftigen Bastelprojekte.
 
 ## Aktuell
-- `Game Save` Command
-- Random Fact Generator
 - StreamElements aus OBS entfernen
     - Neues Chat-Tool finden und implementieren
     - Die Alerts umziehen
@@ -23,6 +21,8 @@ Hier auf der Seite findet ihr alle aktuellen, vergangenen und zukünftigen Baste
 - Cardmarket-Plugin
 
 ## Vergangen
+- `Game Save` Command
+- Random Fact Generator
 - LED-Stripe für die Treppe mit [WLED](https://kno.wled.ge/)
 - [OBS-Selfie-Effekt bei Github veröffentlichen](https://github.com/einfloh/polaroid-obs-plugin)
 - Offene-Tür-Erkennung mit Notification
