@@ -4,7 +4,7 @@ Hier auf der Seite findet ihr alle aktuellen, vergangenen und zukünftigen Baste
 
 ## Aktuell
 - StreamElements aus OBS entfernen
-    - Neues Chat-Tool finden und implementieren
+    - ~~Neues Chat-Tool finden und implementieren~~
     - Die Alerts umziehen
     - Follower-Rotator umziehen
     - Subscriber-Rotator umziehen
