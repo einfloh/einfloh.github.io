@@ -17,6 +17,7 @@ Hier findet ihr eine Liste aller Befehl, die wir in unserem Stream unterstützen
 | !lesen | ...aber das sehr gut! | 
 | !zorn | Florian empfindet Zorn! | 
 | !schebäm | Schebäm Buya | 
+| !gamesave | Erinnere mich daran, dass ich mal wieder speichern sollte! | 
 
 ## Andere Befehle
 | Befehle | Beschreibung | 
