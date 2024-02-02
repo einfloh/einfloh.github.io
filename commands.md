@@ -24,6 +24,7 @@ Hier findet ihr eine Liste aller Befehl, die wir in unserem Stream unterstützen
 | ----------- | ----------- | 
 | !dc | Link zu unserem Discord |
 | !lurk | Sag Bescheid, dass du da, aber im lurk bist! |
+| !bodydoubling | Sag Bescheid, dass du Body-Doublest. |
 | !effekte | Eine Liste aller unserer Effekte |
 | !commands | Eine Liste aller unserer Commands |
 | !randomfact | Zufälliger Fakt über Flo |
