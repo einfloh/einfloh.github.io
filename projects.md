@@ -10,6 +10,7 @@ Hier auf der Seite findet ihr alle aktuellen, vergangenen und zukünftigen Baste
     - Subscriber-Rotator umziehen
 
 ## Zukünftig
+- Besserer Body-Doubling Command
 - Open Source Contribution Thermo Printer
 - Temperatur-Alerts
 - Neuer Motor für die Moneygun
