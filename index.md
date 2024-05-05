@@ -10,7 +10,7 @@ Hi, ich bin Floh aus Berlin. Auf meinem Kanal findet ihr alles, was mir Spaß ma
  * [OBS Polaroid Plugin](https://github.com/einfloh/polaroid-obs-plugin)
 
 ## Pause
-<a href="https://www.twitch.tv/einfloh"><img src="/assets/img/Pause" alt="Nachdem ich euch seit über drei Jahren auf diesem Kanal regelmäßig mit meinen Chaos-Streams unterhalten habe, habe ich mich dazu entschieden, erstmal eine Pause einzulegen.
+<a href="https://www.twitch.tv/einfloh"><img src="/assets/img/Pause.png" alt="Nachdem ich euch seit über drei Jahren auf diesem Kanal regelmäßig mit meinen Chaos-Streams unterhalten habe, habe ich mich dazu entschieden, erstmal eine Pause einzulegen.
 Ob und wann ich wieder streame, erfahrt ihr in Discord oder in euren Benachrichtungen, wenn ich ich den Stream wieder anwerfe.
 Mein Dank geht raus an alle, die mich über die Jahre begleitet haben."/></a>
 
