@@ -22,12 +22,11 @@ Hier findet ihr eine Liste aller Befehl, die wir in unserem Stream unterstützen
 ## Andere Befehle
 | Befehle | Beschreibung | 
 | ----------- | ----------- | 
-| !dc | Link zu unserem Discord |
+| !dc | Link zu meinem Discord |
 | !lurk | Sag Bescheid, dass du da, aber im lurk bist! |
 | !bodydoubling | Sag Bescheid, dass du Body-Doublest. |
-| !effekte | Eine Liste aller unserer Effekte |
-| !commands | Eine Liste aller unserer Commands |
-| !randomfact | Zufälliger Fakt über Flo |
+| !effekte | Eine Liste aller meiner Effekte |
+| !commands | Eine Liste aller meiner Commands |
 | !uptime | Wie lange läuft der Stream schon? |
-| !followage | Wie lange du uns schon folgst! |
+| !followage | Wie lange du mir schon folgst! |
 | !accountage | Wie alt dein Account schon ist! |
